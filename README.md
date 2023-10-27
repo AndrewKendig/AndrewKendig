@@ -13,3 +13,7 @@
 - node.js
 - markdown
 - regex
+- React
+- NextJS
+- TypeScript
+- JSX
